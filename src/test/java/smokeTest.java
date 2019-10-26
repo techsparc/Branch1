@@ -6,6 +6,7 @@ import org.junit.Test;
 public class smokeTest {
 
 	static TestScenario run = new TestScenario();
+	//This is a git change
 	
 	@BeforeClass
 	public static void BrowOpen() {
