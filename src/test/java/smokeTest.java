@@ -7,6 +7,7 @@ public class smokeTest {
 
 	static TestScenario run = new TestScenario();
 	//This is a git change
+	//git hub integration into eclipse 
 	
 	@BeforeClass
 	public static void BrowOpen() {
